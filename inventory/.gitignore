@@ -1,3 +1,5 @@
 *
 !.gitignore
 !sample/
+!rpi-k3s/
+!rpi-k3s/**
